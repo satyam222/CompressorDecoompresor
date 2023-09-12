@@ -1,0 +1,5 @@
+com_decom\compressor.class
+GUI\main.class
+com_decom\decompressor.class
+com\mycompany\compressor_decompressor\COMPRESSOR_DECOMPRESSOR.class
+GUI\appFrame.class
